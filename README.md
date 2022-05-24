@@ -13,3 +13,6 @@ pushkey:  #pushdeer的pushkey，因为我平时用的pushdeer，后面会加入p
 pushcontent:    #推送消息的内容  
 
 目前不保证推送服务完全可用，初步测试下来功能没问题，没时间做深入测试和联调，有问题去issue提...6月21考完试回来处理...
+
+## 画大饼  
+后续会使用Github Action自动打包传Releases（包括源码和Linux、Windows可执行文件）推送平台，加入远程热部署...反正会很摩登...
